@@ -1,4 +1,4 @@
-###REVISING THE SELECT QUERY 1
+### REVISING THE SELECT QUERY 1
 
 * Query all columns for all American cities in the <code>CITY</code> table with populations larger than 100000. The <code>CountryCode</code> for America is <code>USA</code>.
 <br>
